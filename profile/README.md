@@ -10,4 +10,4 @@ As stated on The Odin Project's [website](https://www.theodinproject.com/):
 > This is the website we wish we had when we were learning on our own. We scour the internet looking for only the best resources to supplement your learning and present them in a logical order.
 
 ## Feel free to look around! 😁
-If you are interested in seeing my original code, there are many interesting projects here!
+If you are interested in seeing my original code, there are many interesting projects here! Feel free to review the live demos as well as my commit history!
